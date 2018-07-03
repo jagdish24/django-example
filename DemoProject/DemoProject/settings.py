@@ -26,7 +26,7 @@ SECRET_KEY = '#gdgfh*fasj9l6c@*o=r7@6^gtt7*&!qwc-+c^bsao)i7!$c+d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jagpy.pythonanywhere.com',]
 
 
 # Application definition
